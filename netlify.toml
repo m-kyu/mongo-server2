@@ -3,4 +3,4 @@ command = "npm run build"  # 프로젝트를 빌드하는 명령어
 publish = "public"  # 빌드된 파일을 저장하는 디렉토리
 
 [build.environment]
-NODE_VERSION = "20"  # Node.js 버전
+NODE_VERSION = "18"  # Node.js 버전
